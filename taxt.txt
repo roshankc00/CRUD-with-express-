@@ -1,0 +1,29 @@
+http response status code indicate weather a specific HTTP request has been sucessfully completed or not Responses are grouped in five classes 
+
+information responses 100-199
+sucessful responses 200-299
+redirectional responses 300-399
+client error  responses 400-499
+server  error  responses 500-599
+
+isrcs
+iitna serious roshan chettri sahab 
+
+
+200--> for the sucessfull
+201--> sucessfull created  post request 
+202--> accepted 
+204--> no content 
+
+
+
+400-> Bad request  -> not complete data 
+401--> unauthorized not login
+402-->payment required 
+403--> forbidden  yes login but you are not permitted to do that 
+404--> not found 
+
+
+
+500->mistake logical error in the server site 
+501-> NOT EMPLEMENTED 
